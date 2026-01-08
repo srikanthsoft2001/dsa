@@ -1,0 +1,8 @@
+pointer are address variables - why need to access data using pointers
+code section - stack - heap(cannot access)
+https://drive.google.com/file/d/18dOC7ihU26c2eWWV1d4oSxA_3gGd0Um0/view?usp=sharing
+
+1.accessing the resources out of the program - 2.heap memory as well
+3. and also parameter passing
+
+pointer same amount of memory - what evey type of type
