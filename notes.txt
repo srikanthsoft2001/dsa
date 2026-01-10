@@ -6,3 +6,13 @@ https://drive.google.com/file/d/18dOC7ihU26c2eWWV1d4oSxA_3gGd0Um0/view?usp=shari
 3. and also parameter passing
 
 pointer same amount of memory - what evey type of type
+
+
+References : 
+-------------
+is another name to a variable - for parameter parsing
+in functions.
+it is not a pointer but just another name 
+
+Pointers to structures
+------------------------
