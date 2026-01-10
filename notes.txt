@@ -16,3 +16,5 @@ it is not a pointer but just another name
 
 Pointers to structures
 ------------------------
+1.Dynamically taking  a pointer.. - creating the variable at heap
+2.creating a dynamic object in heap memory and pointer is pointing to it...we dont have object name... we can only access using pointer...to the structure.
