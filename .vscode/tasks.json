@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "if not exist \"${workspaceFolder}\\build\" mkdir \"${workspaceFolder}\\build\"",
+        "&&",
+        "g++",
+        "${file}",
+        "-g",
+        "-o",
+        "${workspaceFolder}\\build\\${fileBasenameNoExtension}.exe"
+      ],
+      "problemMatcher": "$gcc"
+    }
+  ]
+}

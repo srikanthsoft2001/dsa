@@ -1,1 +1,32 @@
-Notes
+
+Functions Notes
+------------------
+- grouping instructions is a function - which is called modules
+- repeatable tasks are just simplified
+- big taks into calculatable units of Functions , smaller Functions
+- monlithic -------------------> modular/procedular programming  
+- so this can make this sharable programming
+- improves reusablility and productivity
+- c is modular programming programming languge
+- c++ object oriented programming languge
+- function has its own activation record  - when function call is happened the variables are created and when function execution completes the activation records are deleted.
+- functions having variable are not accessible from outside - and not accessible by default of each others
+
+we want to divert the code from main for modularity.
+
+parameter parsing methods : 
+--------------------------
+pass by value/call by value : when we dont want to change the actual values we have to use pass by value.
+actual parameters - values are not changed..
+parameter and return the result and not modify the actual parameters
+
+
+pass by address - using pointers we create pointers in the stack - the activation record is generate and then we try to access the following varaibles from the main and then interchange them using our pointers.
+actual para - send by address.. and use pointers as 
+
+pass by reference : here the code is in main only just it looks modular for developer and for bigger functions it is not advisable we are just using reference to bring the code outside...
+
+note : use adddress or value and not refernce as much as possible.
+
+Array as Parameter : 
+-------------------------
