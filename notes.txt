@@ -30,3 +30,10 @@ note : use adddress or value and not refernce as much as possible.
 
 Array as Parameter : 
 -------------------------
+https://drive.google.com/file/d/18dOC7ihU26c2eWWV1d4oSxA_3gGd0Um0/view?usp=sharing
+
+pass by value - should give entire structure.
+sepaerate object is created 
+so when making changes to formal parameter will not change the actual parameter.
+
+pass by reference - we referecing them - modulare and pased at the main file
