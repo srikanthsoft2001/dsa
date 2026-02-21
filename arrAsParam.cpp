@@ -16,7 +16,7 @@ void fun(int *a, int n)
 int *fun1(int n)
 {
     int *p;
-    p = (int *)malloc(n * sizeof(int));
+    p = new int[n];
     return p;
 }
 
